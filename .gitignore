@@ -1,0 +1,14 @@
+# Power BI temp/lock files
+~$*.pbix
+*.pbix.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive/raw data (uncomment if your data is private)
+# data/raw/*
+# !data/raw/README.md
+
+# Logs
+*.log
