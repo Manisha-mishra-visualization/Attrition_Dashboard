@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing employee attrition through the lens of exit reasons, location, job level, and monthly trends — built to support retention strategy and exit-interview follow-up.
 
-![Dashboard Overview](docs/screenshots/overview_dashboard.png)
+https://github.com/Manisha-mishra-visualization/Attrition_Dashboard/blob/main/overview_dashboard.png
 
 ## Overview
 
@@ -73,9 +73,6 @@ Attrition-Exit-Analysis-Dashboard/
 4. Update the data source path/connection if needed (Home → Transform Data → Data Source Settings).
 5. Refresh the data and explore.
 
-## License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ## Data Privacy
 
